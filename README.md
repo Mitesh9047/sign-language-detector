@@ -1,4 +1,4 @@
-# Hand Gesture Recognition Project
+# Sign language Recognition Project
 
 This project aims to capture and classify hand coordinates using a machine learning model. The system utilizes OpenCV for video capture and MediaPipe for hand tracking, alongside a K-Nearest Neighbors (KNN) classifier to recognize hand gestures.
 
